@@ -1,1 +1,1 @@
-# Appliance
+# Appliance repository created by Veronica Trafimchuk.
